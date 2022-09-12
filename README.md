@@ -9,12 +9,16 @@
   
 </p>
 
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1894420/screenshots/11563516/untitled-5.gif" width="400" height="300"/>
+</div>
+
 ## 💻 About Me
 
 - I'm currently a **2nd-year college student attending UCSD**
 - I am majoring in **Computer Science**
 - I have a passion in **Game Design**
-- My pronouns are **he/him**
+- My pronouns are **He/him**
 
 ## 🛠️ Languages and Tools
 
