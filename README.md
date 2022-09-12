@@ -2,12 +2,12 @@
   👋 Hello, I'm Dustin!
 </h1>
 
-<p align="center">
-
-  ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=dfchang149.dfchang149)
-  [![Github](https://img.shields.io/github/followers/dfchang149?label=Follow&style=social)](https://github.com/dfchang149)
+<div align="center">
   
-</p>
+  ![Profile views](https://komarev.com/ghpvc/?username=dfchang149&color=blue)
+  [![Github Follows](https://img.shields.io/github/followers/dfchang149?color=green?label=Followers)](https://github.com/dfchang149)
+  
+</div>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1894420/screenshots/11563516/untitled-5.gif" width="400" height="300"/>
@@ -31,8 +31,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo-winui.svg" title="WinUI" alt="WinUI" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" title="Visual Studio" alt="Visual Studio" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
 
 ## 🏆 My Github Stats
@@ -43,6 +44,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfchang149&layout=compact&border_radius=8&theme=tokyonight)
 
+## 🧠 Currently learning
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Xaml-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="Xaml" />
+  <img src="https://img.shields.io/badge/DotNet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+</div>
 
 <!--
 **dfchang149/dfchang149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
