@@ -15,7 +15,7 @@
 - I have a passion in **Game Design**
 - You can reach me through my **Student Email**:
 
-  > dfchang149@ucsd.edu
+  > dfchang@ucsd.edu
 
 ## 🏆 My Github Stats
 
