@@ -11,11 +11,10 @@
 
 ## 💻 About Me
 
-- I'm currently a **2nd-year Comp-Sci student attending UCSD**
+- I'm currently a **2nd-year college student attending UCSD**
+- I am majoring in **Computer Science**
 - I have a passion in **Game Design**
-- You can reach me through my **Student Email**:
-
-  > dfchang@ucsd.edu
+- My pronouns are **he/him**
 
 ## 🏆 My Github Stats
 
