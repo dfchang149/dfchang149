@@ -5,7 +5,7 @@
 <div align="center">
   
   ![Profile views](https://komarev.com/ghpvc/?username=dfchang149&color=blue)
-  [![Github Follows](https://img.shields.io/github/followers/dfchang149?color=green?label=Followers)](https://github.com/dfchang149)
+  ![GitHub followers](https://img.shields.io/github/followers/dfchang149?color=g&label=Followers)
   
 </div>
 
@@ -38,11 +38,11 @@
 
 ## 🏆 My Github Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dfchang149&show_icons=true&border_radius=8&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dfchang149&show_icons=true&border_radius=9&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dfchang149&theme=tokyonight&border_radius=8)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfchang149&layout=compact&border_radius=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfchang149&border_radius=8&theme=tokyonight)
 
 ## 🧠 Currently learning
 
