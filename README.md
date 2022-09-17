@@ -38,7 +38,7 @@
 
 ## 🏆 My Github Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dfchang149&show_icons=true&border_radius=9&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dfchang149&show_icons=true&theme=tokyonight&border_radius=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dfchang149&theme=tokyonight&border_radius=8)](https://git.io/streak-stats)
 
