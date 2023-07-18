@@ -15,7 +15,7 @@
 
 ## 💻 About Me
 
-- I'm currently a **2nd-year college student attending UCSD**
+- I'm currently a **3rd-year college student attending UCSD**
 - I am majoring in **Computer Science**
 - I have a passion in **Game Design**
 - My pronouns are **He/him**
@@ -49,8 +49,8 @@
 ## 🧠 Currently learning
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Xaml-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="Xaml" />
-  <img src="https://img.shields.io/badge/DotNet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
 </div>
 
 <!--
