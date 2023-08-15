@@ -23,7 +23,8 @@
 ## 🛠️ Languages and Tools
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height
+="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -40,12 +41,15 @@
 
 ## 🏆 My Github Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dfchang149&show_icons=true&theme=tokyonight&border_radius=8)
+<!--
+![dfchang149's github stats](https://github-readme-stats.vercel.app/api?username=dfchang149&show_icons=true&theme=tokyonight&border_radius=8)
+-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dfchang149&theme=tokyonight&border_radius=8)](https://git.io/streak-stats)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfchang149&border_radius=8&theme=tokyonight)
-
+-->
 ## 🧠 Currently learning
 
 <div align="left">
