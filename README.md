@@ -15,7 +15,7 @@
 
 ## 💻 About Me
 
-- I'm currently a **4th-year college student attending UCSD**
+- I'm currently a **4th-year undergraduate student at UCSD**
 - I am majoring in **Computer Science**
 - My pronouns are **He/him**
 
