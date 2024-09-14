@@ -49,6 +49,8 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfchang149&border_radius=8&theme=tokyonight)
 -->
+
+<!--
 ## 🧠 Currently learning
 
 <div align="left">
@@ -56,7 +58,6 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
 </div>
 
-<!--
 **dfchang149/dfchang149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
