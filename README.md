@@ -17,7 +17,6 @@
 
 - I'm currently a **3rd-year college student attending UCSD**
 - I am majoring in **Computer Science**
-- I have a passion in **Game Design**
 - My pronouns are **He/him**
 
 ## 🛠️ Languages and Tools
