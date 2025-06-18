@@ -38,18 +38,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
 
-## 🏆 My Github Stats
-
-<!--
-![dfchang149's github stats](https://github-readme-stats.vercel.app/api?username=dfchang149&show_icons=true&theme=tokyonight&border_radius=8)
--->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dfchang149&theme=tokyonight&border_radius=8)](https://git.io/streak-stats)
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfchang149&border_radius=8&theme=tokyonight)
--->
-
 <!--
 ## 🧠 Currently learning
 
